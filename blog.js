@@ -28,6 +28,8 @@ async function getBlogPost() {
   }
 }
 
+
+
 loadButton.addEventListener('click', async function () {
   getBlogPost();
 });
